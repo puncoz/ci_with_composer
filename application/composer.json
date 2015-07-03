@@ -1,0 +1,9 @@
+{
+	"description" : "CodeIgniter using Composer",
+	"name" : "CI/CIApp",
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=5.3",
+		"faisalman/simple-excel-php" : "dev-master"
+	}
+}
